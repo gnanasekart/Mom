@@ -1,0 +1,64 @@
+Meeting Transcript – 10 minutes
+Date: [Insert Date]
+Meeting Duration: 10 minutes
+Participants:
+
+Gnana Sekar - Developer
+Prakash - Business Analyst
+Mohan - Project Manager
+[00:00:01] Mohan (Project Manager)
+"Good morning, everyone. Thank you for joining this meeting. The main agenda today is to review the progress on our current project milestone and address any potential blockers. Let’s get started with a quick update. Gnana, can you walk us through the development progress?"
+
+[00:00:25] Gnana (Developer)
+"Sure, Mohan. We have completed about 80% of the planned features for this sprint. The core API integration was successful, and we ran the initial set of tests using our automation framework, which showed stable results. However, we encountered a challenge with broadcast message validation, which I believe needs some clarification from Prakash."
+
+[00:00:56] Prakash (Business Analyst)
+"Thanks, Gnana. I understand there were some discrepancies. Can you elaborate on the issues you've seen with the broadcast messages?"
+
+[00:01:10] Gnana (Developer)
+"Yes, Prakash. The issue primarily revolves around message formatting. We expected a specific structure, but there seem to be deviations. This inconsistency is impacting our validation checks, and I’d like to confirm if there were any recent changes in the message specifications."
+
+[00:01:35] Prakash (Business Analyst)
+"Got it. There was an update last week, but I should have ensured it was communicated to your team. I'll share the revised specifications and work with you to address any gaps."
+
+[00:02:00] Mohan (Project Manager)
+"Thanks, Prakash. Timely communication is key here. Gnana, once you get the updated specifications, do you anticipate any major rework?"
+
+[00:02:14] Gnana (Developer)
+"Based on what Prakash shared, I don’t foresee any substantial changes to our core logic, but we will need to tweak the validation scripts and rerun the tests."
+
+[00:02:28] Mohan (Project Manager)
+"That’s good to know. How long will that take?"
+
+[00:02:32] Gnana (Developer)
+"With the new specs, I estimate two to three days for the adjustments and testing."
+
+[00:02:40] Mohan (Project Manager)
+"Alright. Let’s target having the tests completed by the end of this week. Prakash, if you can provide the specifications today, that would be ideal."
+
+[00:02:50] Prakash (Business Analyst)
+"Absolutely, I’ll send it over right after this meeting."
+
+[00:03:00] Mohan (Project Manager)
+"Perfect. On another note, Gnana, how is the team handling performance optimizations?"
+
+[00:03:10] Gnana (Developer)
+"We've made progress there as well. The database queries have been optimized, leading to a 15% improvement in response times. We're still working on further reducing latency."
+
+[00:03:26] Mohan (Project Manager)
+"Great work. Keep it up. Do you need any additional resources for this?"
+
+[00:03:32] Gnana (Developer)
+"At this stage, we’re managing well. But I’ll let you know if that changes."
+
+[00:03:40] Mohan (Project Manager)
+"Good. Anything else from anyone?"
+
+[00:03:45] Prakash (Business Analyst)
+"Not from my side."
+
+[00:03:48] Gnana (Developer)
+"No, I’m good."
+
+[00:03:50] Mohan (Project Manager)
+"Alright, thank you everyone for your updates. Let's reconvene next week to track progress. Have a productive week!"
